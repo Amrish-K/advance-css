@@ -294,8 +294,8 @@ footer {
 }
 ```
 ### Output:
-```
-![Screenshot (42)](https://github.com/Amrish-K/advance-css/assets/130633944/b586b743-8115-4a4b-ad04-326f117f58f8)
-![Screenshot (43)](https://github.com/Amrish-K/advance-css/assets/130633944/034e46b0-20d4-4b7e-bb9b-bbfd44cc0745)
-```
+![Screenshot (42)](https://github.com/Amrish-K/advance-css/assets/130633944/5f3954a7-67f1-4f9c-a6b9-f420497f5dd8)
+![Screenshot (43)](https://github.com/Amrish-K/advance-css/assets/130633944/93bba0a3-fbed-49c8-86bc-0219310679c3)
+
+
 
